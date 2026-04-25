@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  font-family: Arial;
+  background: #111;
+  color: #fff;
+}
+
+#result {
+  font-size: 50px;
+  margin-top: 20px;
+}
+
+#timer {
+  font-size: 40px;
+  color: yellow;
+}
+
+#notice {
+  color: cyan;
+  margin-bottom: 10px;
+}
